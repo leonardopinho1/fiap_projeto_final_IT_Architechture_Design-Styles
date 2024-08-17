@@ -32,7 +32,7 @@
 30.	Code (Opcional)
 31.	Validar no checklist (opcional) - https://c4model.com/review/
 32.	Gravar um vídeo explicando o projeto com um todo e desenhos, Obs: todos os integrantes devem apresentar uma parte do projeto.
-Subir em um repositório no github e compartilha com o professor
+Subir em um repositório no github em formato de radme com todos os detalhes, para o portal gerar um PDF para a entrega e por uiltimo mais não menos importante compartilha com o professor o vídeo.
 Dúvidas contatar os E-mail:  profleonardo.pinho@fiap.com.br /  leonardo.c.pinho@gmail.com
 
 ![image](https://github.com/user-attachments/assets/a8a99254-7964-496b-bb1e-a80b64420f9b)
