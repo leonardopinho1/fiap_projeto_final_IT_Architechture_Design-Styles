@@ -1,4 +1,4 @@
-# IT_Architechture_Design-Styles
+# IT_Architecture_Design-Styles
 Public
 
 1.	Montar um Story Telling sobre o problema que você resolve e definir o tema (Verificar nos slides da aula 1 sobre os temas sugeridos).
