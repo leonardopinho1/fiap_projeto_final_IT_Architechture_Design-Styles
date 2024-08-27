@@ -1,4 +1,5 @@
-# fiap_projeto_final_design_de_arquiteturas
+# IT_Architechture_Design-Styles
+Public
 
 1.	Montar um Story Telling sobre o problema que você resolve e definir o tema (Verificar nos slides da aula 1 sobre os temas sugeridos).
 2.	O que esperamos aprender com esse projeto? 
